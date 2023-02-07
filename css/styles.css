@@ -2902,7 +2902,7 @@ img.u-pull-left {
     background-color : var(--color-body);
     width            : 100%;
     height           : 100vh;
-    min-height       : calc(25.5 * var(--space));
+    min-height       : calc(35 * var(--space));
     overflow         : hidden;
     position         : relative;
 }
